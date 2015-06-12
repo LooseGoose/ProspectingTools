@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ProspectingTools",
+  "name": "ProspectingTools",
+  "description": "ProspectingTools is a mod which adds a few tools to assist in finding ores.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LooseGoose"],
+  "credits": "Vazkii, Wuppi, et al for having open source code and tutorials to look at.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

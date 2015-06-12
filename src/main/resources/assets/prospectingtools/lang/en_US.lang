@@ -1,0 +1,12 @@
+itemGroup.ProspectingTools=ProspectingTools
+
+item.ProspectingTools:prospectingPick.name=Prospecting Pick
+item.ProspectingTools:oreMeter.name=Ore Meter (WIP)
+
+gui.ProspectingPick.Found=Found
+gui.ProspectingPick.FoundNothing=No ores found.
+gui.ProspectingPick.FoundTraces=Found traces of
+gui.ProspectingPick.FoundSmall=Found a small amount of
+gui.ProspectingPick.FoundMedium=Found a medium amount of
+gui.ProspectingPick.FoundLarge=Found a large amount of
+gui.ProspectingPick.FoundHuge=Found a huge amount of
